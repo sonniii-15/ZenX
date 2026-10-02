@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815537584666",
+    "project_id": "fitness-territory-ef1e5",
+    "storage_bucket": "fitness-territory-ef1e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815537584666:android:3a0de58bdd066189fdafa3",
+        "android_client_info": {
+          "package_name": "com.zenx.zenx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBGYiElTJs8aWGH9TfcN84behhUpAOVYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
